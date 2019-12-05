@@ -3,13 +3,13 @@ QA Study Plan
 PHASE 1
 	SQL
 	Unix
- Software Architecture
+  Software Architecture
 	Testing Fundamentals
 	SDLC
 	Http, Webservices
 	Soap, REST, JSON 
 	SOAPUI/ REST Clients
- POSTMAN
+  POSTMAN
 	Performance Fundamentals
 	JMETER
 
@@ -32,8 +32,8 @@ PHASE 3
 	Appium
 	SelniumGrid and ParallelTesting
 	SauceLabs
- Docker
- Cucumber
+  Docker
+  Cucumber
 
 
 
