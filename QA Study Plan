@@ -3,15 +3,17 @@ QA Study Plan
 PHASE 1
 	SQL
 	Unix
+ Software Architecture
 	Testing Fundamentals
 	SDLC
 	Http, Webservices
-	Soap, REST
+	Soap, REST, JSON 
 	SOAPUI/ REST Clients
+ POSTMAN
 	Performance Fundamentals
 	JMETER
 
-PHASE 2**
+PHASE 2
 	Java-OOPS
 	Operators and Loops
 	Strings and Arrays
@@ -21,7 +23,7 @@ PHASE 2**
 	Junit
 	TestNG
 
-PHASE 3**
+PHASE 3
 	XPATH,CSSSelectors
 	Webdriver
 	Automation Framework
@@ -30,12 +32,14 @@ PHASE 3**
 	Appium
 	SelniumGrid and ParallelTesting
 	SauceLabs
+ Docker
+ Cucumber
 
 
 
 
 Additional Topics:
-Cucumber
+HTML,CSS
 Javascript
 Protractor
 Nightwatch.js
